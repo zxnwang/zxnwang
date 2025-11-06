@@ -1,4 +1,4 @@
-<img align="center" src="YOUR_BANNER_LINK_HERE">
+<img align="center" src="https://github.com/zxnwang/zxnwang/blob/main/banner.png?raw=true">
 
 # 🌟 Welcome to My GitHub Profile!
 
